@@ -1,0 +1,37 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "spell": "npx cspell '**/*.jsx' && npx cspell '**/*.js'"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.1.1",
+    "axios": "^0.21.1",
+    "cspell": "^8.3.2",
+    "dotenv": "^16.3.1",
+    "emailjs-com": "^3.2.0",
+    "firebase": "^10.1.0",
+    "framer-motion": "^10.17.9",
+    "lodash": "^4.17.21",
+    "next": "latest",
+    "next-themes": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.2",
+    "react-intersection-observer": "^9.5.3",
+    "react-rough-notation": "^1.0.1",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.4",
+    "sweetalert2": "^11.7.20",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
+  }
+}
