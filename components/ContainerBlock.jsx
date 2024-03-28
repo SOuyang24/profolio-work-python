@@ -13,10 +13,10 @@ export default function ContainerBlock({ children, ...customMeta }) {
   let category_description = "building responsive, user-friendly, and performant web and mobile applications with cutting-edge modern technologies and frameworks";
   if (category.includes("frontend")) {
     title = userData.title.frontend
-    categorydescription = `building responsive, user-friendly, and performant interfaces with cutting-edge modern technologies and frameworks.`
+    category_description = `building responsive, user-friendly, and performant interfaces with cutting-edge modern technologies and frameworks.`
   } else if (category.includes("backend")) {
     title = userData.title.backend
-    categorydescription = `building scalable, performant and secure APIs to query and expose data over the Internet with cutting-edge modern technologies,frameworks and architectures with the highest security standards.`
+    category_description = `building scalable, performant and secure APIs to query and expose data over the Internet with cutting-edge modern technologies,frameworks and architectures with the highest security standards.`
   }
   const meta = {
     title: `Simon Ouyang - ${title}`,
