@@ -34,3 +34,14 @@ Deployment can be done in 3 easy steps.
 
 # License
 MIT
+
+# website
+| Name    | Web Site |
+| -------- | ------- |
+| javascript_fullstack    | souayng14.vercel.app    |
+| frontend  | souayng15.vercel.app   |
+| javascript_backend | souayng16.vercel.app    |
+| java_backend    | souayng17.vercel.app     |
+| java_fullstack   | souayng18.vercel.app     |
+| python_fullstack    | souayng19.vercel.app   |
+| python_backend    | souayng20.vercel.app    |
